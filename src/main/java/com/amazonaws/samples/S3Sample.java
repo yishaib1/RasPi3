@@ -207,7 +207,7 @@ public class S3Sample {
             String line = reader.readLine();
             if (line == null) break;
 
-            System.out.println("    " + line);
+            System.out.println("   " + line);
         }
         System.out.println();
     }
